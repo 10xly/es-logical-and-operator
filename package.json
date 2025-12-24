@@ -1,0 +1,28 @@
+{
+  "name": "es-logical-and-operator",
+  "version": "1.0.0",
+  "description": "&& in fp",
+  "keywords": [
+    "add",
+    "number",
+    "math",
+    "operator",
+    "es",
+    "js"
+  ],
+  "homepage": "https://github.com/in-fp/es-logical-and-operator#readme",
+  "bugs": {
+    "url": "https://github.com/in-fp/es-logical-and-operator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/in-fp/es-logical-and-operator.git"
+  },
+  "license": "EGPSL10X-1.0",
+  "author": "10X'ly made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
